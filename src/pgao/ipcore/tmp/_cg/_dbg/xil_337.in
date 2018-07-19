@@ -1,0 +1,56 @@
+SET_FLAG DEBUG FALSE
+SET_FLAG MODE INTERACTIVE
+SET_FLAG STANDALONE_MODE FALSE
+SET_PREFERENCE devicefamily spartan6
+SET_PREFERENCE device xc6slx45
+SET_PREFERENCE speedgrade -2
+SET_PREFERENCE package fgg484
+SET_PREFERENCE verilogsim true
+SET_PREFERENCE vhdlsim false
+SET_PREFERENCE simulationfiles Structural
+SET_PREFERENCE busformat BusFormatSquareBracketNotRipped
+SET_PREFERENCE outputdirectory D:/User/Desktop/OT_prj/ipcore/
+SET_PREFERENCE workingdirectory D:/User/Desktop/OT_prj/ipcore/tmp/
+SET_PREFERENCE subworkingdirectory D:/User/Desktop/OT_prj/ipcore/tmp/_cg/
+SET_PREFERENCE transientdirectory D:/User/Desktop/OT_prj/ipcore/tmp/_cg/_dbg/
+SET_PREFERENCE designentry Verilog
+SET_PREFERENCE flowvendor Other
+SET_PREFERENCE addpads false
+SET_PREFERENCE projectname coregen
+SET_PREFERENCE formalverification false
+SET_PREFERENCE asysymbol false
+SET_PREFERENCE implementationfiletype Ngc
+SET_PREFERENCE foundationsym false
+SET_PREFERENCE createndf false
+SET_PREFERENCE removerpms false
+SET_PARAMETER InternalUser 0
+SET_PARAMETER Component_Name int20_Mult
+SET_PARAMETER MultType Parallel_Multiplier
+SET_PARAMETER PortAType Unsigned
+SET_PARAMETER PortAWidth 8
+SET_PARAMETER PortBType Signed
+SET_PARAMETER PortBWidth 12
+SET_PARAMETER ConstValue 129
+SET_PARAMETER CcmImp Distributed_Memory
+SET_PARAMETER Multiplier_Construction Use_Mults
+SET_PARAMETER OptGoal Speed
+SET_PARAMETER Use_Custom_Output_Width false
+SET_PARAMETER OutputWidthHigh 19
+SET_PARAMETER OutputWidthLow 0
+SET_PARAMETER UseRounding false
+SET_PARAMETER RoundPoint 0
+SET_PARAMETER PipeStages 1
+SET_PARAMETER ClockEnable true
+SET_PARAMETER SyncClear true
+SET_PARAMETER SclrCePriority SCLR_Overrides_CE
+SET_PARAMETER ZeroDetect false
+SET_CORE_NAME Multiplier
+SET_CORE_VERSION 11.2
+SET_CORE_VLNV xilinx.com:ip:mult_gen:11.2
+SET_CORE_CLASS com.xilinx.ip.mult_gen_v11_2.mult_gen_v11_2
+SET_CORE_PATH D:/Xilinx/14.6/ISE_DS/ISE/coregen/ip/xilinx/dsp/com/xilinx/ip/mult_gen_v11_2
+SET_CORE_GUIPATH D:/Xilinx/14.6/ISE_DS/ISE/coregen/ip/xilinx/dsp/com/xilinx/ip/mult_gen_v11_2/gui/mult_gen_v11_2.tcl
+SET_CORE_DATASHEET D:\Xilinx\14.6\ISE_DS\ISE\coregen\ip\xilinx\dsp\com\xilinx\ip\mult_gen_v11_2\doc\mult_gen_ds255.pdf
+ADD_CORE_DOCUMENT <D:\Xilinx\14.6\ISE_DS\ISE\coregen\ip\xilinx\dsp\com\xilinx\ip\mult_gen_v11_2\doc\mult_gen_v11_2_readme.txt><mult_gen_v11_2_readme.txt>
+ADD_CORE_DOCUMENT <D:\Xilinx\14.6\ISE_DS\ISE\coregen\ip\xilinx\dsp\com\xilinx\ip\mult_gen_v11_2\doc\mult_gen_v11_2_vinfo.html><mult_gen_v11_2_vinfo.html>
+ADD_CORE_DOCUMENT <D:\Xilinx\14.6\ISE_DS\ISE\coregen\ip\xilinx\dsp\com\xilinx\ip\mult_gen_v11_2\doc\mult_gen_ds255.pdf><mult_gen_ds255.pdf>

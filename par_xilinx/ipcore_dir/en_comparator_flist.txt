@@ -1,0 +1,15 @@
+# Output products list for <en_comparator>
+_xmsgs\pn_parser.xmsgs
+en_comparator.asy
+en_comparator.gise
+en_comparator.ngc
+en_comparator.sym
+en_comparator.v
+en_comparator.veo
+en_comparator.xco
+en_comparator.xise
+en_comparator\doc\floating_point_ds335.pdf
+en_comparator\doc\floating_point_v5_0_readme.txt
+en_comparator\doc\floating_point_v5_0_vinfo.html
+en_comparator_flist.txt
+en_comparator_xmdf.tcl

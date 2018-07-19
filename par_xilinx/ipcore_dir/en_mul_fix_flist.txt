@@ -1,0 +1,15 @@
+# Output products list for <en_mul_fix>
+_xmsgs\pn_parser.xmsgs
+en_mul_fix.asy
+en_mul_fix.gise
+en_mul_fix.ngc
+en_mul_fix.sym
+en_mul_fix.v
+en_mul_fix.veo
+en_mul_fix.xco
+en_mul_fix.xise
+en_mul_fix\doc\mult_gen_ds255.pdf
+en_mul_fix\doc\mult_gen_v11_2_readme.txt
+en_mul_fix\doc\mult_gen_v11_2_vinfo.html
+en_mul_fix_flist.txt
+en_mul_fix_xmdf.tcl
