@@ -8,7 +8,7 @@
 
 :high_brightness: **[Sources](./src)** :high_brightness:
 
-:high_brightness: **[Paper](./pdf)** :high_brightness:
+:high_brightness: **[Paper](./paper)** :high_brightness:
 
 :high_brightness: **[Main File](./par_xilinx)** :high_brightness:
 
