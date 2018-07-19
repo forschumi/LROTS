@@ -12,7 +12,7 @@
 
 :high_brightness: **[Main File](./par_xilinx)** :high_brightness:
 
-:high_brightness: **[IP Core](./INS_prj/ipcore_dir)** :high_brightness:
+:high_brightness: **[IP Core](./par_xilinx/ipcore_dir)** :high_brightness:
  
 Please cite the above publication if it helps your research:
 
